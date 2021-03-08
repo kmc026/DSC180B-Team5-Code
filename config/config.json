@@ -1,0 +1,5 @@
+{
+    "actual_image_dir": "test/testdata/ZED_1.png",
+    "ground_truth_image_dir": "test/testdata/ZED_1_gt.jpg",
+    "SSIM_result_dir": "results/SSIM_result.txt"
+}
