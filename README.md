@@ -10,3 +10,6 @@ Instruction: The command python run.py test will automatically generate the SSIM
 
 Here is a Google Drive link to all of the images that our team has collected:
 https://drive.google.com/drive/folders/1olPWEXQ5X8jmgcVDhKkoeA07meu2znwE?usp=sharing
+
+The DockerHub Repository is:
+https://hub.docker.com/repository/docker/kw24032/dsc180a-methodology7
