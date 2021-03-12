@@ -12,7 +12,7 @@ If you would like to generate the SSIM results between an image and its ground t
 
 If you would like to run the code and generate the plot results that are described in the report, please run the command "python run.py ssim-graph". The results will be saved as .png files inside "results" folder.
 
-The command "python run.py test" will automatically generate all of the results listed above, inside "results" folder.
+The command "python run.py test" will automatically generate all of the results listed above, inside the "results" folder.
 
 Here is a Google Drive link to all of the images that our team has collected:
 https://drive.google.com/drive/folders/1olPWEXQ5X8jmgcVDhKkoeA07meu2znwE?usp=sharing
