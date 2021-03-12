@@ -1,3 +1,5 @@
 numpy
 cv2
 scikit-image
+pandas
+matplotlib
